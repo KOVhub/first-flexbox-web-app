@@ -28,7 +28,7 @@ $(function(){
 	
 			
 	
-	if(window.innerWidth > 1024) {
+	if(window.outerWidth > 1024) {
 			$('#slide').slick( {
 			slidesToShow: 3,
 			slidesToScroll: 1,
