@@ -291,9 +291,9 @@ strong {
 	margin-bottom: 1.3vh;
 }
 
-.form-consultation bytton,
-.form-contacts bytton,
-.form-call bytton {
+.form-consultation button,
+.form-contacts button,
+.form-call button {
 	width: 100%;
 	display: inline-block;
 	padding: 1.58vw 0;
